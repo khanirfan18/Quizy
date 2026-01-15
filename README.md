@@ -1,30 +1,19 @@
-# Quizzy
-Interactive quiz application built with React.
-<img width="810" height="769" alt="Screenshot from 2026-01-15 21-26-40" src="https://github.com/user-attachments/assets/830cd790-7351-48a9-8369-a0bd0ebd3481" />
-<img width="810" height="769" alt="Screenshot from 2026-01-15 21-32-58" src="https://github.com/user-attachments/assets/537bf863-071f-4ad3-8fce-83e093888adf" />
-<img width="810" height="769" alt="Screenshot from 2026-01-15 21-33-09" src="https://github.com/user-attachments/assets/df6456d1-88aa-49cb-b989-0b947546ac63" />
+# Getting Started
+Install the dependencies and run the project
+```
+npm install
+npm start
+```
 
-quiz application built with React that allows users to answer multiple-choice questions, locks answers after selection, and highlights the chosen option.
-The app demonstrates state management, array iteration, and conditional rendering in React, with a focus on clear logic and component-based structure.
+Head over to https://vitejs.dev/ to learn more about configuring vite
+## About Scrimba
 
-# ✨ Features
+At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
+If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
+The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-Dynamic questions rendered from data
+- [Our courses](https://scrimba.com/courses)
+- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
+- [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
-One-time answer selection per question
-
-Selected option highlighted visually
-
-Button disabled after answer selection
-
-Clean and minimal UI
-
-# 🛠 Tech Stack
-
-React
-
-JavaScript (ES6+)
-
-CSS
-
-clsx for conditional class handling
+Happy Coding!
